@@ -1,0 +1,17 @@
+D:\GITHUB\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.csproj.AssemblyReference.cache
+D:\GITHUB\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.AssemblyInfoInputs.cache
+D:\GITHUB\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.AssemblyInfo.cs
+D:\GITHUB\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.csproj.CoreCompileInputs.cache
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\bin\Debug\net6.0\Pictorial.Core.deps.json
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\bin\Debug\net6.0\Pictorial.Core.dll
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\bin\Debug\net6.0\Pictorial.Core.pdb
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.csproj.AssemblyReference.cache
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.AssemblyInfoInputs.cache
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.AssemblyInfo.cs
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.csproj.CoreCompileInputs.cache
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.dll
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\refint\Pictorial.Core.dll
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\Pictorial.Core.pdb
+D:\WorksOfMe\Pictorial\Pictorial\Pictorial.Backend\Pictorial.Core\obj\Debug\net6.0\ref\Pictorial.Core.dll
